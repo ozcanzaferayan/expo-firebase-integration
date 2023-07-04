@@ -1,5 +1,5 @@
-import React, { useEffect } from "react";
-import { View, Button, SafeAreaView } from "react-native";
+import React from "react";
+import { Button, SafeAreaView } from "react-native";
 import crashlytics from "@react-native-firebase/crashlytics";
 
 export default function App() {

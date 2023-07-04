@@ -10,29 +10,29 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		258A67DB5CBF4296BC4AB712 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 67410858D7D547B39E18C3EB /* GoogleService-Info.plist */; };
 		3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */; };
+		9712653D2644A87C39C4918A /* Pods_testfirebase3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06ACC517E8500FA19DF66B2F /* Pods_testfirebase3.framework */; };
+		A8445A249EC74E5F9FBEBC58 /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = 594A8BD4A23E4313A94E5E44 /* noop-file.swift */; };
 		B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
-		C02141642EAF4B9896EAC4B2 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6DEA6A2154DE45C4854AA9FA /* GoogleService-Info.plist */; };
-		DF37B91B65F24F04922EDDAA /* noop-file.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7C414085F024613AEC9A213 /* noop-file.swift */; };
-		E2D805443275DF34BFD69D08 /* Pods_testfirebase3.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7D0A8CC568BD14153A54F79 /* Pods_testfirebase3.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
+		06ACC517E8500FA19DF66B2F /* Pods_testfirebase3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testfirebase3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07F961A680F5B00A75B9A /* testfirebase3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testfirebase3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = testfirebase3/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = testfirebase3/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = testfirebase3/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = testfirebase3/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = testfirebase3/main.m; sourceTree = "<group>"; };
+		594A8BD4A23E4313A94E5E44 /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "testfirebase3/noop-file.swift"; sourceTree = "<group>"; };
+		67410858D7D547B39E18C3EB /* GoogleService-Info.plist */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "testfirebase3/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6C2E3173556A471DD304B334 /* Pods-testfirebase3.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testfirebase3.debug.xcconfig"; path = "Target Support Files/Pods-testfirebase3/Pods-testfirebase3.debug.xcconfig"; sourceTree = "<group>"; };
-		6DEA6A2154DE45C4854AA9FA /* GoogleService-Info.plist */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "testfirebase3/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		7A4D352CD337FB3A3BF06240 /* Pods-testfirebase3.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testfirebase3.release.xcconfig"; path = "Target Support Files/Pods-testfirebase3/Pods-testfirebase3.release.xcconfig"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = testfirebase3/SplashScreen.storyboard; sourceTree = "<group>"; };
-		B7C414085F024613AEC9A213 /* noop-file.swift */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.swift; name = "noop-file.swift"; path = "testfirebase3/noop-file.swift"; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
-		E7D0A8CC568BD14153A54F79 /* Pods_testfirebase3.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testfirebase3.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		FAC715A2D49A985799AEE119 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-testfirebase3/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -42,7 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2D805443275DF34BFD69D08 /* Pods_testfirebase3.framework in Frameworks */,
+				9712653D2644A87C39C4918A /* Pods_testfirebase3.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -60,8 +60,8 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */,
-				6DEA6A2154DE45C4854AA9FA /* GoogleService-Info.plist */,
-				B7C414085F024613AEC9A213 /* noop-file.swift */,
+				67410858D7D547B39E18C3EB /* GoogleService-Info.plist */,
+				594A8BD4A23E4313A94E5E44 /* noop-file.swift */,
 			);
 			name = testfirebase3;
 			sourceTree = "<group>";
@@ -70,7 +70,7 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				E7D0A8CC568BD14153A54F79 /* Pods_testfirebase3.framework */,
+				06ACC517E8500FA19DF66B2F /* Pods_testfirebase3.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -153,9 +153,9 @@
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				800E24972A6A228C8D4807E9 /* [CP] Copy Pods Resources */,
-				718C53C84381E81674B9699B /* [CP] Embed Pods Frameworks */,
-				C9187704514D340FD1A75C83 /* [CP-User] [RNFB] Core Configuration */,
-				C25781001E6000F019360BE9 /* [CP-User] [RNFB] Crashlytics Configuration */,
+				61B7423033700519EC2DA7CE /* [CP] Embed Pods Frameworks */,
+				9245D73B6F2599BA532E9E2B /* [CP-User] [RNFB] Core Configuration */,
+				8397D5A0CD1DFD2D7AC4BC90 /* [CP-User] [RNFB] Crashlytics Configuration */,
 			);
 			buildRules = (
 			);
@@ -205,7 +205,7 @@
 				BB2F792D24A3F905000567C9 /* Expo.plist in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
-				C02141642EAF4B9896EAC4B2 /* GoogleService-Info.plist in Resources */,
+				258A67DB5CBF4296BC4AB712 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,7 +248,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		718C53C84381E81674B9699B /* [CP] Embed Pods Frameworks */ = {
+		61B7423033700519EC2DA7CE /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -286,7 +286,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-testfirebase3/Pods-testfirebase3-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C25781001E6000F019360BE9 /* [CP-User] [RNFB] Crashlytics Configuration */ = {
+		8397D5A0CD1DFD2D7AC4BC90 /* [CP-User] [RNFB] Crashlytics Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -300,7 +300,7 @@
 			shellPath = /bin/sh;
 			shellScript = "#!/usr/bin/env bash\n#\n# Copyright (c) 2016-present Invertase Limited & Contributors\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this library except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#   http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\nset -e\n\nif [[ ${PODS_ROOT} ]]; then\n  echo \"info: Exec FirebaseCrashlytics Run from Pods\"\n  \"${PODS_ROOT}/FirebaseCrashlytics/run\"\nelse\n  echo \"info: Exec FirebaseCrashlytics Run from framework\"\n  \"${PROJECT_DIR}/FirebaseCrashlytics.framework/run\"\nfi\n";
 		};
-		C9187704514D340FD1A75C83 /* [CP-User] [RNFB] Core Configuration */ = {
+		9245D73B6F2599BA532E9E2B /* [CP-User] [RNFB] Core Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -342,7 +342,7 @@
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				B18059E884C0ABDD17F3DC3D /* ExpoModulesProvider.swift in Sources */,
-				DF37B91B65F24F04922EDDAA /* noop-file.swift in Sources */,
+				A8445A249EC74E5F9FBEBC58 /* noop-file.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
