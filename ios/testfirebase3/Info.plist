@@ -28,6 +28,12 @@
           <string>com.zaferayan.test-firebase-3</string>
         </array>
       </dict>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>com.googleusercontent.apps.714775353844-9t6fdg9a7dobc6j2368jm9ak6hskcauj</string>
+        </array>
+      </dict>
     </array>
     <key>CFBundleVersion</key>
     <string>1</string>
